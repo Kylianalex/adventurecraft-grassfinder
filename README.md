@@ -1,7 +1,15 @@
 ## Install
+### Installing [jnbt](https://github.com/theJ8910/jnbt)
 ```sh
 git clone https://github.com/theJ8910/jnbt.git
+cd jnbt
 ./setup.py install
+```
+
+### Installing Grassfinder
+```sh
+git clone https://github.com/Kylianalex/adventurecraft-grassfinder.git
+cd adventurecraft-grassfinder
 ```
 
 ## Use
