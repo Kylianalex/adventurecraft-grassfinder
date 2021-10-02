@@ -1,3 +1,4 @@
+# Grassfinder
 ## Install
 ### Installing [jnbt](https://github.com/theJ8910/jnbt)
 ```sh
